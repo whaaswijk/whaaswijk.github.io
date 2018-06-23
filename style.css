@@ -1,0 +1,16 @@
+html {
+    font-family: "Noto Sans", "Helvetica Neue", "Helvetica", "Arial";
+}
+
+a {
+    color: rgb(0, 102, 153);
+}
+
+#author-name {
+    font-size: 30px;
+}
+
+.container {
+    margin: auto;
+    max-width: 600px;
+}
