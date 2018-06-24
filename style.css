@@ -1,5 +1,6 @@
 html {
     font-family: "Noto Sans", "Helvetica Neue", "Helvetica", "Arial";
+    background-color: #eeeeee;
 }
 
 a {
@@ -12,7 +13,7 @@ a {
 
 .container {
     margin: auto;
-    max-width: 600px;
+    max-width: 1000px;
 }
 
 .footer {
@@ -21,4 +22,55 @@ a {
 
 .navbar {
     border-bottom: 1px solid #e8e8e8;
+}
+
+.publication {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 25px;
+    background-color: white;
+    box-shadow: 0px 3px 3px -3px #ccc;
+    min-height: 140px;
+}
+
+.publication a {
+    color: black;
+}
+
+.publication a.visited {
+    color: black;
+}
+
+.pub-thumb {
+    width: 116px;
+    height: 150px;
+    position: relative;
+    float: left;
+    margin-right: 20px;
+}
+
+.pub-title {
+    font-size: 20px;
+    font-weight: 300;
+    margin-top: 0px;
+}
+
+.pub-authors {
+    font-size: 14px;
+    display: block;
+}
+
+.pub-venue {
+    font-size: 14px;
+    display: block;
+}
+
+.pub-loc-date {
+    font-size: 14px;
+    display: block;
+}
+
+.pub-publisher {
+    font-size: 14px;
+    display: block;
 }

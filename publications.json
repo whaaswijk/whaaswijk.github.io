@@ -1,0 +1,157 @@
+    [
+        {
+            "title": "SAT Based Exact Synthesis using DAG Topology Families",
+            "link" : "http://doi.acm.org/10.1145/3195970.3196111",
+            "authors" : [
+                "Winston Haaswijk",
+                "Alan Mishchenko",
+                "Mathias Soeken",
+                "Giovanni De Micheli"
+            ],
+            "venue" : "Design Automation Conference (DAC)",
+            "loc-date" : "San Francisco, USA, June 2018",
+            "publisher" : "ACM/IEEE",
+            "thumbnail" : "dac18.jpg"
+        },
+        {
+            "title": "The EPFL Logic Synthesis Libraries",
+            "link" : "http://arxiv.org/abs/1805.05121",
+            "authors" : [
+                "Mathias Soeken",
+                "Heinz Riener",
+                "Winston Haaswijk",
+                "Giovanni De Micheli"
+            ],
+            "venue" : "International Workshop on Logic & Synthesis (IWLS)",
+            "loc-date" : "San Francisco, USA, June 2018",
+            "publisher" : "",
+            "thumbnail" : "iwls18.jpg"
+        },
+        {
+            "title": "Deep Learning for Logic Synthesis Algorithms",
+            "link" : "http://doi.acm.org/10.1145/3195970.3196111",
+            "authors" : [
+                "Winston Haaswijk",
+                "Edo Collins",
+                "Benoit Seguin",
+                "Mathias Soeken",
+                "Sabine Süsstrunk", 
+                "Frédéric Kaplan",
+                "Giovanni De Micheli"
+            ],
+            "venue" : "International Symposium on Circuits and Systems (ISCAS)",
+            "loc-date" : "Florence, Italy, May 2018",
+            "publisher" : "IEEE",
+            "thumbnail" : "iscas18.jpg"
+        },
+        {
+            "title": "Practical Exact Synthesis",
+            "link" : "https://doi.org/10.23919/DATE.2018.8342027",
+            "authors" : [
+                "Mathias Soeken",
+                "Winston Haaswijk",
+                "Eleonora Testa",
+                "Alan Mishchenko",
+                "Luca Gaetano Amarù", 
+                "Robert K. Brayton", 
+                "Giovanni De Micheli"
+            ],
+            "venue" : "Design, Automation, and Test in Europe (DATE)",
+            "loc-date" : "Dresden, Germany, March 2018",
+            "publisher" : "IEEE",
+            "thumbnail" : "date18.jpg"
+        },
+        {
+            "title": "Classifying Functions with Exact Synthesis",
+            "link" : "https://doi.org/10.1109/ISMVL.2017.44",
+            "authors" : [
+                "Winston Haaswijk",
+                "Eleonora Testa",
+                "Mathias Soeken",
+                "Giovanni De Micheli"
+            ],
+            "venue" : "International Symposium on Multi-Valued Logic (ISMVL)",
+            "loc-date" : "Novi Sad, Serbia, May 2017",
+            "publisher" : "IEEE",
+            "thumbnail" : "ismvl17.jpg"
+        },
+        {
+            "title": "Deep Learning for Logic Optimization",
+            "link" : "",
+            "authors" : [
+                "Winston Haaswijk",
+                "Edo Collins",
+                "Benoit Seguin",
+                "Mathias Soeken",
+                "Sabine Süsstrunk", 
+                "Frédéric Kaplan",
+                "Giovanni De Micheli"
+            ],
+            "venue" : "International Workshop on Logic & Synthesis (IWLS)",
+            "loc-date" : "Austin, USA, June 2017",
+            "publisher" : "",
+            "thumbnail" : "iwls17.jpg"
+        },
+        {
+            "title": "A Novel Basis for Logic Rewriting",
+            "link" : "https://doi.org/10.1109/ASPDAC.2017.7858312",
+            "authors" : [
+                "Winston Haaswijk",
+                "Mathias Soeken",
+                "Luca Gaetano Amarù", 
+                "Pierre-Emmanuel Gaillardon", 
+                "Giovanni De Micheli"
+            ],
+            "venue" : "International Symposium on Multi-Valued Logic (ISMVL)",
+            "loc-date" : "Toky, Japan, January 2017",
+            "publisher" : "IEEE",
+            "thumbnail" : "aspdac17-1.jpg"
+        },
+        {
+            "title": "Multi-level Logic Benchmarks: An Exactness Study",
+            "link" : "https://doi.org/10.1109/ASPDAC.2017.7858313",
+            "authors" : [
+                "Luca Gaetano Amarù", 
+                "Mathias Soeken", 
+                "Winston Haaswijk",
+                "Eleonora Testa", 
+                "Patrick Vuillod", 
+                "Jiong Luo", 
+                "Pierre-Emmanuel Gaillardon", 
+                "Giovanni De Micheli"
+            ],
+            "venue" : "Asia and South Pacific Design Automation Conference (ASP-DAC)",
+            "loc-date" : "Tokyo, Japan, January 2017",
+            "publisher" : "IEEE",
+            "thumbnail" : "aspdac17-2.jpg"
+        },
+        {
+            "title": "LUT Mapping and Optimization for Majority-Inverter Graphs",
+            "link" : "pdfs/iwls16.pdf",
+            "authors" : [
+                "Winston Haaswijk",
+                "Mathias Soeken",
+                "Luca Gaetano Amarù",
+                "Pierre-Emmanuel Gaillardon",
+                "Giovanni De Micheli"
+            ],
+            "venue" : "International Workshop on Logic & Synthesis (IWLS)",
+            "loc-date" : "Austin, USA, June 2016",
+            "publisher" : "",
+            "thumbnail" : "iwls16.jpg"
+        },
+        {
+            "title": "NEM Relay Design with Biconditional Binary Decision Diagrams",
+            "link" : "https://doi.org/10.1109/NANOARCH.2015.7180585",
+            "authors" : [
+                "Winston Haaswijk",
+                "Luca Gaetano Amarù",
+                "Pierre-Emmanuel Gaillardon",
+                "Giovanni De Micheli"
+            ],
+            "venue" : "International Symposium on Nanoscale Architectures (NANOARCH)",
+            "loc-date" : "Boston, USA, July 2015",
+            "publisher" : "IEEE",
+            "thumbnail" : "nanoarch15.jpg"
+        }
+    ]
