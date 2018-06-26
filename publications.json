@@ -29,7 +29,7 @@
         },
         {
             "title": "Deep Learning for Logic Synthesis Algorithms",
-            "link" : "http://doi.acm.org/10.1145/3195970.3196111",
+            "link" : "pdfs/iscas18.pdf",
             "authors" : [
                 "Winston Haaswijk",
                 "Edo Collins",
@@ -77,7 +77,7 @@
         },
         {
             "title": "Deep Learning for Logic Optimization",
-            "link" : "https://whaaswijk.github.io/pdfs/iwls17.pdf",
+            "link" : "pdfs/iwls17.pdf",
             "authors" : [
                 "Winston Haaswijk",
                 "Edo Collins",
