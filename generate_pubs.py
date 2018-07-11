@@ -5,7 +5,7 @@ def json_to_html(pub):
     print('<div class="publication">')
     if 'link' in pub:
         print('<a href="{0}">'.format(pub['link']))
-    print('<img class="pub-thumb" src="images/thumbs/{0}" /></a>'.
+    print('<img class="pub-thumb" src="images/thumbs/{0}" />'.
             format(pub['thumbnail']))
     if 'link' in pub:
         print('</a>')
