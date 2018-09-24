@@ -1,5 +1,21 @@
     [
         {
+            "title": "Integrated ESOP Refactoring for Industrial Designs",
+            "link" : "pdfs/icecs18.pdf",
+            "authors" : [
+                "Winston Haaswijk",
+                "Luca Gaetano Amarù", 
+                "Patrick Vuillod",
+                "Jiong Luo",
+                "Mathias Soeken",
+                "Giovanni De Micheli"
+            ],
+            "venue" : "International Conference on Electronics, Circuits, & Systems (ICECS)",
+            "loc-date" : "Bordeaux, France, December 2018",
+            "publisher" : "IEEE",
+            "thumbnail" : "icecs18.jpg"
+        },
+        {
             "title": "SAT Based Exact Synthesis using DAG Topology Families",
             "link" : "http://doi.acm.org/10.1145/3195970.3196111",
             "authors" : [
