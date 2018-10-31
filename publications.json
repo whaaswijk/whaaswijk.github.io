@@ -1,5 +1,20 @@
     [
         {
+            "title": "On-the-fly and DAG-aware: Rewriting Boolean Networks with Exact Synthesis",
+            "link" : "",
+            "authors" : [
+                "Heinz Riener",
+                "Mathias Soeken",
+                "Winston Haaswijk",
+                "Alan Mishchenko",
+                "Giovanni De Micheli"
+            ],
+            "venue" : "Design, Automation, and Test in Europe (DATE)",
+            "loc-date" : "Florence, Italy, March 2019",
+            "publisher" : "IEEE",
+            "thumbnail" : "date19.jpg"
+        },
+        {
             "title": "Integrated ESOP Refactoring for Industrial Designs",
             "link" : "pdfs/icecs18.pdf",
             "authors" : [
