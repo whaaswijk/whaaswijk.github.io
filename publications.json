@@ -15,6 +15,21 @@
             "thumbnail" : "date19.jpg"
         },
         {
+            "title": "Mapping Monotone Boolean Functions into Majority",
+            "link" : "https://infoscience.epfl.ch/record/261167/files/Mapping%20Monotone%20Boolean.pdf",
+            "authors" : [
+                "Eleonora Testa",
+                "Mathias Soeken",
+                "Luca Amarù", 
+                "Winston Haaswijk",
+                "Giovanni De Micheli"
+            ],
+            "venue" : "IEEE Transactions on Computers",
+            "loc-date" : "November 2018",
+            "publisher" : "IEEE",
+            "thumbnail" : "tcomp.png"
+        },
+        {
             "title": "Integrated ESOP Refactoring for Industrial Designs",
             "link" : "pdfs/icecs18.pdf",
             "authors" : [
