@@ -1,5 +1,19 @@
     [
         {
+            "title": "SAT-Based Exact Synthesis: Encodings, Topology Families, and Parallelism",
+            "link" : "",
+            "authors" : [
+                "Winston Haaswijk",
+                "Mathias Soeken",
+                "Alan Mishchenko",
+                "Giovanni De Micheli"
+            ],
+            "venue" : "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "loc-date" : "(in press)",
+            "publisher" : "IEEE",
+            "thumbnail" : "tcad.png"
+        },
+        {
             "title": "On-the-fly and DAG-aware: Rewriting Boolean Networks with Exact Synthesis",
             "link" : "",
             "authors" : [
