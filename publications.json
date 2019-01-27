@@ -1,5 +1,21 @@
     [
         {
+            "title": "Exact Synthesis of Boolean Functions in Majority-of-five Forms",
+            "link" : "",
+            "authors" : [
+                "Zhufei Chu",
+                "Winston Haaswijk",
+                "Mathias Soeken",
+                "Lunyao Wang",
+                "Yinshui Xia",
+                "Giovanni De Micheli"
+            ],
+            "venue" : "International Symposium on Circuits and Systems (ISCAS)",
+            "loc-date" : "Sapporo, Japan, May 2019",
+            "publisher" : "IEEE",
+            "thumbnail" : "iscas19.jpg"
+        },
+        {
             "title": "SAT-Based Exact Synthesis: Encodings, Topology Families, and Parallelism",
             "link" : "",
             "authors" : [
