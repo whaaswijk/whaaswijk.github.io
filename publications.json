@@ -1,5 +1,22 @@
     [
         {
+            "title": "Scalable generic logic synthesis: one approach to rule them all",
+            "link" : "",
+            "authors" : [
+                "Heinz Riener",
+                "Eleonora Testa",
+                "Winston Haaswijk",
+                "Alan Mishchenko",
+                "Luca Amarù", 
+                "Giovanni De Micheli",
+                "Mathias Soeken"
+            ],
+            "venue" : "Design Automation Conference (DAC)",
+            "loc-date" : "Las Vegas, USA, June 2019",
+            "publisher" : "ACM/IEEE",
+            "thumbnail" : "dac19.jpg"
+        },
+        {
             "title": "Exact Synthesis of Boolean Functions in Majority-of-five Forms",
             "link" : "",
             "authors" : [
