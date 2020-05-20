@@ -1,13 +1,27 @@
     [
+		{
+            "title": "SAT-Based Exact Synthesis: Encodings, Topology Families, and Parallelism",
+            "link" : "https://ieeexplore.ieee.org/document/8634910",
+            "authors" : [
+                "Winston Haaswijk",
+                "Mathias Soeken",
+                "Alan Mishchenko",
+                "Giovanni De Micheli"
+            ],
+            "venue" : "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "loc-date" : "April 2020",
+            "publisher" : "IEEE",
+            "thumbnail" : "tcad.png"
+        },
         {
             "title": "Scalable generic logic synthesis: one approach to rule them all",
-            "link" : "",
+            "link" : "pdfs/2019_dac_1.pdf",
             "authors" : [
                 "Heinz Riener",
                 "Eleonora Testa",
                 "Winston Haaswijk",
                 "Alan Mishchenko",
-                "Luca Amarù", 
+                "Luca AmarÃ¹", 
                 "Giovanni De Micheli",
                 "Mathias Soeken"
             ],
@@ -18,7 +32,7 @@
         },
         {
             "title": "Exact Synthesis of Boolean Functions in Majority-of-five Forms",
-            "link" : "",
+            "link" : "pdfs/2019_iscas.pdf",
             "authors" : [
                 "Zhufei Chu",
                 "Winston Haaswijk",
@@ -32,23 +46,9 @@
             "publisher" : "IEEE",
             "thumbnail" : "iscas19.jpg"
         },
-        {
-            "title": "SAT-Based Exact Synthesis: Encodings, Topology Families, and Parallelism",
-            "link" : "",
-            "authors" : [
-                "Winston Haaswijk",
-                "Mathias Soeken",
-                "Alan Mishchenko",
-                "Giovanni De Micheli"
-            ],
-            "venue" : "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
-            "loc-date" : "(in press)",
-            "publisher" : "IEEE",
-            "thumbnail" : "tcad.png"
-        },
-        {
+		{
             "title": "On-the-fly and DAG-aware: Rewriting Boolean Networks with Exact Synthesis",
-            "link" : "",
+            "link" : "pdfs/2019_date_1.pdf",
             "authors" : [
                 "Heinz Riener",
                 "Mathias Soeken",
@@ -67,7 +67,7 @@
             "authors" : [
                 "Eleonora Testa",
                 "Mathias Soeken",
-                "Luca Amarù", 
+                "Luca AmarÃ¹", 
                 "Winston Haaswijk",
                 "Giovanni De Micheli"
             ],
@@ -81,7 +81,7 @@
             "link" : "pdfs/icecs18.pdf",
             "authors" : [
                 "Winston Haaswijk",
-                "Luca Amarù", 
+                "Luca AmarÃ¹", 
                 "Patrick Vuillod",
                 "Jiong Luo",
                 "Mathias Soeken",
@@ -128,8 +128,8 @@
                 "Edo Collins",
                 "Benoit Seguin",
                 "Mathias Soeken",
-                "Sabine Süsstrunk", 
-                "Frédéric Kaplan",
+                "Sabine SÃ¼sstrunk", 
+                "FrÃ©dÃ©ric Kaplan",
                 "Giovanni De Micheli"
             ],
             "venue" : "International Symposium on Circuits and Systems (ISCAS)",
@@ -145,7 +145,7 @@
                 "Winston Haaswijk",
                 "Eleonora Testa",
                 "Alan Mishchenko",
-                "Luca Amarù", 
+                "Luca AmarÃ¹", 
                 "Robert K. Brayton", 
                 "Giovanni De Micheli"
             ],
@@ -176,8 +176,8 @@
                 "Edo Collins",
                 "Benoit Seguin",
                 "Mathias Soeken",
-                "Sabine Süsstrunk", 
-                "Frédéric Kaplan",
+                "Sabine SÃ¼sstrunk", 
+                "FrÃ©dÃ©ric Kaplan",
                 "Giovanni De Micheli"
             ],
             "venue" : "International Workshop on Logic & Synthesis (IWLS)",
@@ -191,7 +191,7 @@
             "authors" : [
                 "Winston Haaswijk",
                 "Mathias Soeken",
-                "Luca Amarù", 
+                "Luca AmarÃ¹", 
                 "Pierre-Emmanuel Gaillardon", 
                 "Giovanni De Micheli"
             ],
@@ -204,7 +204,7 @@
             "title": "Multi-level Logic Benchmarks: An Exactness Study",
             "link" : "https://doi.org/10.1109/ASPDAC.2017.7858313",
             "authors" : [
-                "Luca Amarù", 
+                "Luca AmarÃ¹", 
                 "Mathias Soeken", 
                 "Winston Haaswijk",
                 "Eleonora Testa", 
@@ -224,7 +224,7 @@
             "authors" : [
                 "Winston Haaswijk",
                 "Mathias Soeken",
-                "Luca Amarù",
+                "Luca AmarÃ¹",
                 "Pierre-Emmanuel Gaillardon",
                 "Giovanni De Micheli"
             ],
@@ -238,7 +238,7 @@
             "link" : "https://doi.org/10.1109/NANOARCH.2015.7180585",
             "authors" : [
                 "Winston Haaswijk",
-                "Luca Amarù",
+                "Luca AmarÃ¹",
                 "Pierre-Emmanuel Gaillardon",
                 "Giovanni De Micheli"
             ],
