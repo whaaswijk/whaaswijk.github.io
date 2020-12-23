@@ -1,5 +1,20 @@
     [
-		{
+        {
+            "title": "SAT-based Exact Physical Design for Field-coupled Nanocomputing Technologies",
+            "link" : "pdfs/iwls20.pdf",
+            "authors" : [
+                "Marcel Walter",
+                "Winston Haaswijk",
+                "Robert Wille",
+                "Frank Sill Torres",
+                "Rolf Drechsler"
+            ],
+            "venue" : "International Workshop on Logic & Synthesis (IWLS)",
+            "loc-date" : "Virtual Conference, July 2020",
+            "publisher" : "",
+            "thumbnail" : "iwls20.jpg"
+        },
+        {
             "title": "SAT-Based Exact Synthesis: Encodings, Topology Families, and Parallelism",
             "link" : "https://ieeexplore.ieee.org/document/8634910",
             "authors" : [
