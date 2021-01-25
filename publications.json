@@ -1,4 +1,19 @@
     [
+	{
+            "title": "One-pass Synthesis for Field-coupled Nanocomputing Technologies",
+            "link" : "pdfs/aspdac21.pdf",
+            "authors" : [
+                "Marcel Walter",
+                "Winston Haaswijk",
+                "Robert Wille",
+                "Frank Sill Torres",
+                "Rolf Drechsler"
+            ],
+            "venue" : "Asia and South Pacific Design Automation Conference (ASPDAC)",
+            "loc-date" : "Virtual Conference, January 2021",
+            "publisher" : "IEEE",
+            "thumbnail" : "aspdac21.jpg"
+        },
         {
             "title": "SAT-based Exact Physical Design for Field-coupled Nanocomputing Technologies",
             "link" : "pdfs/iwls20.pdf",
